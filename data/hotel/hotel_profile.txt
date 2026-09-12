@@ -1,0 +1,29 @@
+HOTEL PROFILE
+
+Hotel Name: Lusso Grand Hotel
+
+Location: Abuja, Nigeria
+
+Address: 25 Example Avenue, Maitama, Abuja
+
+Check-in: 2:00 PM
+
+Check-out: 12:00 PM
+
+Front Desk:
+The front desk operates 24 hours daily.
+
+Late Checkout:
+Guests may request late checkout. Approval depends on availability.
+
+Airport Transfer:
+Airport transfer is available upon request and must be booked through the front desk.
+
+Restaurant:
+The hotel restaurant operates from 7:00 AM to 11:00 PM.
+
+Room Service:
+Room service is available from 7:00 AM to 10:30 PM.
+
+Wi-Fi:
+Complimentary Wi-Fi is available to hotel guests.

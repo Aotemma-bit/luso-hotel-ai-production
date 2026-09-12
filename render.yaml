@@ -1,0 +1,30 @@
+services:
+  - type: web
+    name: luso-hotel-ai
+    runtime: docker
+    healthCheckPath: /api/health/ready
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: OPENAI_MODEL
+        value: gpt-5
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_KEY
+        sync: false
+      - key: REDIS_URL
+        sync: false
+      - key: ALLOWED_ORIGINS
+        sync: false
+      - key: TRUSTED_HOSTS
+        sync: false
+      - key: RATE_LIMIT_REQUESTS
+        value: "120"
+      - key: RATE_LIMIT_WINDOW_SECONDS
+        value: "60"
+      - key: MAX_PAGE_SIZE
+        value: "200"
+      - key: WEB_CONCURRENCY
+        value: "2"

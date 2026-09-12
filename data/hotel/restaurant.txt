@@ -1,0 +1,15 @@
+RESTAURANT INFORMATION
+
+The hotel restaurant operates daily from 7:00 AM to 11:00 PM.
+
+Breakfast is served from 7:00 AM to 10:30 AM.
+
+Lunch is served from 12:00 PM to 4:00 PM.
+
+Dinner is served from 6:00 PM to 11:00 PM.
+
+Room service is available from 7:00 AM to 10:30 PM.
+
+Restaurant reservations can be requested through the front desk.
+
+The AI must not invent menu items, food prices or allergen information.

@@ -1,0 +1,37 @@
+ROOM INFORMATION
+
+STANDARD ROOM
+
+Capacity: 2 guests
+Bed: King bed
+Wi-Fi: Available
+Breakfast: Available
+Room service: Available
+Workspace: Yes
+
+
+DELUXE ROOM
+
+Capacity: 2 guests
+Bed: King bed
+Wi-Fi: Available
+Breakfast: Included
+Room service: Available
+Workspace: Yes
+City view: Yes
+
+
+EXECUTIVE SUITE
+
+Capacity: 4 guests
+Bed: King bed
+Living room: Yes
+Wi-Fi: Available
+Breakfast: Included
+Room service: Available
+Workspace: Yes
+
+
+ROOM AVAILABILITY
+
+The AI must never promise that a room is available without checking the hotel's live booking system or escalating the enquiry to the front desk.
